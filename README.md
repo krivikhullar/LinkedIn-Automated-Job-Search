@@ -1,4 +1,4 @@
-# LinkedIn Job Search Automation Suite
+# LinkedIn Job Search Automation
 
 A two-part personal automation pipeline: one component generates and delivers a resume-matched job search report, the other tracks how in-demand skills trend week over week across those same job postings. Both run unattended and email their output.
 
