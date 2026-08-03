@@ -17,10 +17,9 @@ The Skill Trend Tracker reads that same report (plus, best-effort, live LinkedIn
 Both scripts send their output via email using the Resend API, so the reports land in an inbox without manually running anything.
 
 How It Works
-                    ┌─────────────────────────────┐
-                    │ LinkedIn_Job_Matches_With_   │
-                    │ Resume.txt (source report)   │
-                    └──────────────┬───────────────┘
+                    
+                    LinkedIn_Job_Matches_With_
+                     Resume.txt (source report)
                                    │
                  ┌─────────────────┴─────────────────┐
                  ▼                                     ▼
